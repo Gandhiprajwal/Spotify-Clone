@@ -1,4 +1,8 @@
 
-# Spotify Clone
 
-## This is completed during my Course of Apna College.
+# This is a Spotify Clone
+## Built by me Prajwal Gandhi
+### Clone it to view it and run it in your browser
+# Gandhi Gandu hai
+
+
