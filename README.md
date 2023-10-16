@@ -1,4 +1,4 @@
 
 # Spotify Clone
 
-This is my Mini Project.
+## This is completed during my Course of Apna College.
